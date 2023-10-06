@@ -1,5 +1,5 @@
 # WeChatOpenDevTools
-![小程序](./png/2.jpg)
+
 ![小程序](./png/1.jpg)
 ### 介绍
 
