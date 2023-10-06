@@ -22,9 +22,9 @@
 |                        |                             |        |
 
 ### 使用方式
+使用vs编译 编译version.dll 如果不会的直接下载
 WeChatAppEx.exe版本：8447
 编译version.dll放到WeChat.exe目录下：C:\Program Files (x86)\Tencent\WeChat\[3.9.7.29]
 重启微信即可开启
-     
 
 
